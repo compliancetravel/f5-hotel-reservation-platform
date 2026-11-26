@@ -1,8 +1,4 @@
-{
-    "swagger": "2.0",
-    "info": {
-        "description": "This documentation contains a general overview of the Emerging Travel Group API Partner Program.",
-        "title": "ETG API v3",
+"title": "ETG API v3",
         "contact": {},
         "version": "3.0.0"
     },
